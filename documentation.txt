@@ -1,0 +1,6 @@
+init git hub repo
+init AKS (Azure kubernetes servise) + config file
+init mood detector db (container) + connect via workbench
+writing the python app (mood detector) - include connection to db
+
+
